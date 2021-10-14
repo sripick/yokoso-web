@@ -1,6 +1,6 @@
 # yokoso-web
 
-Yokoso is a financial planning tool for providing transparent and unbiased information regarding financial institutions and their products.
+Yokoso is a financial planning tool and under development. Yokoso is designed to make people financially enable by providing them with unbiased and transparent information regarding financial institutions and their products 
 
-# website
+# Website
 See our website at https://yokoso.in/
